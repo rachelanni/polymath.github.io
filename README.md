@@ -1,5 +1,5 @@
 RACHEL HARRIS
-895 Watkins Drive, Moscow, TN 38057 | 731-433-9864 | rachelannie.harris@gmail.com http://www.linkedin.com/in/rachel-harris-30468113
+
 
 SUMMARY:
 
@@ -345,5 +345,5 @@ Gestalt Community Schools   						        Memphis, TN
 ●	Performed maintenance and repairs on printers, projectors, robotics equipment, wireless access points, routers, switches, firewalls, and MacBook charging carts.
 
 
-
+895 Watkins Drive, Moscow, TN 38057 | 731-433-9864 | rachelannie.harris@gmail.com http://www.linkedin.com/in/rachel-harris-30468113
 
