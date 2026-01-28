@@ -1,3 +1,61 @@
+// Sample script.js
+document.addEventListener('DOMContentLoaded', () => {
+    // Assuming the data is loaded into a global variable 'resumeData' 
+    // or fetched from a JSON file.
+    // For this example, we assume it's available.
+
+    const { name, title, contact, skills, experience, education } = resumeData;
+
+    // --- Header Section ---
+    document.getElementById('header').innerHTML = `
+        <h1>${name}</h1>
+        <p>${title}</p>
+        <p>Email: <a href="mailto:${contact.email}">${contact.email}</a> | Phone: ${contact.phone} | Location: ${contact.location}</p>
+    `;
+
+    // --- Skills Section ---
+    const skillsList = document.getElementById('skills-list');
+    skills.forEach(skill => {
+        const li = document.createElement('li');
+        li.textContent = skill;
+        skillsList.appendChild(li);
+    });
+
+    // --- Experience Section ---
+    const experienceSection = document.getElementById('experience-section');
+    experience.forEach(job => {
+        const jobDiv = document.createElement('div');
+        jobDiv.classList.add('job-entry'); // Add CSS class for styling
+        jobDiv.innerHTML = `
+            <h3>${job.title} at ${job.company}</h3>
+            <p class="dates">${job.dates}</p>
+            <p>${job.description}</p>
+        `;
+        experienceSection.appendChild(jobDiv);
+    });
+
+    // --- Education Section ---
+    const educationSection = document.getElementById('education-section');
+    education.forEach(edu => {
+        const eduDiv = document.createElement('div');
+        eduDiv.classList.add('education-entry'); // Add CSS class for styling
+        eduDiv.innerHTML = `
+            <h3>${edu.degree}</h3>
+            <p>${edu.university}</p>
+            <p class="dates">${edu.dates}</p>
+        `;
+        educationSection.appendChild(eduDiv);
+    });
+
+    // Example of simple interactivity: alert on contact click
+    const emailLink = document.querySelector('#header a');
+    if (emailLink) {
+        emailLink.addEventListener('click', (e) => {
+            console.log(`Contacting ${name} via email`);
+        });
+    }
+});
+
 // script.js 
 // Taking elements from HTML
 const inputField = document.querySelector(".inputField");
