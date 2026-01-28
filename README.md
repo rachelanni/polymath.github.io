@@ -3,17 +3,17 @@ RACHEL HARRIS
 
 SUMMARY:
 
-Analytical Security Systems Engineer with over 13 years in designing secure system components and leading third-party risk management initiatives. Expertise in scripting, REST services, and security control assessments, with a strong background in risk mitigation, incident response, and communicating across organizational levels with cross-functional teams to drive a shared vision and the ingenuity to deliver solutions that utilize all services available, applying a positive, innovative, and truly dedicated work ethic. 
- 
+Analytical Security Systems Engineer with over 13 years of experience designing and adapting system components with technical integrity and consistency. Expertise in communicating across organizational levels with cross-functional teams evaluating the requirements to drive a shared vision. Multi-talented critical thinker with the ingenuity to deliver solutions that utilize all services available, applying a positive, innovative, and truly dedicated work ethic. 
 
 CERTIFICATIONS:         
          
-•	Microsoft Certified: Azure Solutions Architect Expert AZ-305 
-•	ZScaler: Certified Deployment Specialist (ZCDS), Certified Sales Engineer (ZCSE), Zero Trust Certified Associate (ZTCA), SD-WAN, Cyber Threat Protection, Data Protection, Deception
+•	Microsoft Certified: Azure Solutions Architect Expert, AZ-305 
+•	ZScaler: Certified Deployment Specialist (ZCDS), Certified Sales Engineer (ZCSE), Zero Trust Certified Associate (ZTCA)
 •	Sentinel One Incident Response Engineer - Siren 
 •	Stellar Cyber Certified Associate 
-•	CompTIA Cloud+, Security+ 
-•	Cisco: CCNA 201-301, Certified Cybersecurity Associate
+•	CompTIA Cloud+, Security+(SYO-701), Network+
+•	Cisco: Certified Cybersecurity Associate, CCNA 201-301
+•	ITILv4 Foundation
 
 EDUCATION:
 
