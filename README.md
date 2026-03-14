@@ -3,6 +3,7 @@ RACHEL HARRIS
 AZURE CLOUD/ CYBERSECURITY ENGINEER		
 
 CONTACT
+
 Location: Memphis, TN
 Email: rachelannie.harris@gmail.com
 Phone: (731) 433-9864
