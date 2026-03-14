@@ -1,353 +1,286 @@
+
 RACHEL HARRIS
+AZURE CLOUD/ CYBERSECURITY ENGINEER		
+
+CONTACT
+Location: Memphis, TN
+Email: rachelannie.harris@gmail.com
+Phone: (731) 433-9864
+LinkedIn:
+http://www.linkedin.com/in/rachel-harris-30468113                  
+GitHub:
+https://rachelanni.github.io/polymath.github.io/
 
 
-SUMMARY:
+SUMMARY
+Analytical Security Systems Engineer with over 13 years in designing secure system components and leading third-party risk management initiatives. Expertise in scripting, REST services, and security control assessments, with a strong background in risk mitigation, incident response, and communicating across organizational levels with cross-functional teams to drive a shared vision and the ingenuity to deliver solutions that utilize all services available, applying a positive, innovative, and truly dedicated work ethic.	
+	
+EDUCATION
+Lab Four Professional Development Center, 2017
+IT Certification Training- CCNA & ITILv3
+ITT Technical Institute, 2009 – 2013
+Associates of Applied Science: Information Technology; Computer Networking Systems, Bachelors: Information Security
 
-Analytical Security Systems Engineer with over 13 years of experience designing and adapting system components with technical integrity and consistency. Expertise in communicating across organizational levels with cross-functional teams evaluating the requirements to drive a shared vision. Multi-talented critical thinker with the ingenuity to deliver solutions that utilize all services available, applying a positive, innovative, and truly dedicated work ethic. 
 
-CERTIFICATIONS:         
-         
-•	Microsoft Certified: Azure Solutions Architect Expert, AZ-305 
-•	ZScaler: Certified Deployment Specialist (ZCDS), Certified Sales Engineer (ZCSE), Zero Trust Certified Associate (ZTCA)
+CERTIFICATIONS
+•	Microsoft Certified: Azure Solutions Architect Expert
+•	ZScaler: Certified Deployment Specialist (ZCDS), ZIA/ZPA Bootcamp, Certified Sales Engineer (ZCSE), Zero Trust Certified                 Associate (ZTCA)
 •	Sentinel One Incident Response Engineer - Siren 
 •	Stellar Cyber Certified Associate 
-•	CompTIA Cloud+, Security+(SYO-701), Network+
-•	Cisco: Certified Cybersecurity Associate, CCNA 201-301
-•	ITILv4 Foundation
+•	CompTIA Cloud+(v4), Security+(v7), Network+(v9)
+•	Cisco: CCNA Certified Cybersecurity Associate
+•	ITIL 4 Foundations
 
-EDUCATION:
+EXPERIENCE
 
-●	IT Certification Training - Lab Four Professional Development Center - Memphis, TN (2017)
-●	Associates of Applied Science: Information Technology; Computer Networking Systems - ITT Technical Institute - Cordova, TN (2011) 
-   SKILLS:
+CYBER SECURITY ENGINEER
+Cyber Guards         Oct 2024 – Oct 2025
 
-               Networking & Security
-●	CyberArk/ Nessus/ Sophos/ 
-/ Stellar Cyber/ Sentinel One/ Symantec/ Windows Defender 
-●	SSL/ TLS/ SSO/ LSA/ LDAP/SCIM
-●	RSA SecureID/ JSON/ API/ SAML/ PRT/ Ping ID/ OAuth
-●	IIS/ HTTP/ HTTPS/ FTP/ FTPS/ SMTP/ NNTP/ SMB/ AWS
-●	CSI/ DISA STIG/ PCI DSS/ SOX/ PII/ BCP/ DR/ HIPPA/ HITRUST/CSF/ HL7/FHIR/EU GDPR/NIST/MARS-E
-●	TCP/IP/DHCP/ BIN/ SNMP/ FTP/ SFTP/ DNS/ OSI/ PPP/ VoIP/ UDP/ TCP
-●	LAN/ WAN/ VPN/ VLAN/ ASA/ SSL/ PPTP/ L2TP/ IPsec/ OpenVPN/TLS/ IKEv2
-●	Cisco: iOS CLI, AnyConnect, Meraki, Sentury
-●	Juniper/ Fortinet/ SonicWALL/ NetScreen/ Nortel/ RapidStream/ WatchGuard/ ProofPoint/ Tessian/
-●	F5/ CheckPoint/ Palo Alto/ Zscaler
-●	CDMA/ EVDO/ 5G/ HSD	                           Software & Services
-●	Windows Server, Exchange Server: EOP/ATP 
-●	Linux OS/ Server
-●	Unix OS/ Server
-●	MAC OS X/ Server/ iOS
-●	Azure: AD, Defender, Sentinel, Identity, Endpoint, Data Lake, Cloud App Security, Teams Security, security, Compliance Center PowerShell CLI
-●	MDT/ ADK/ HLK/ SDT/ SCCM/ Intune/ Meraki System Manager/ Apple Configurator 2/ SOTI MobiControl/ AirWatch/ JAMF Pro, Casper Suite 
-●	SailPoint Identity IQ/ Okta/ Azure Endpoint
-●	SQL Server 
-●	Remedy/ ServiceNow/ Sys Aid/ SolarWinds/ FreshService 
-●	Citrix GoToAssist/ Cisco WebEx/ CA
-●	VMware: Workstation/ vSphere, Hypervisor ESX, Receiver, VDI Studio, Director/ XenApp, Desk, Server, & Mobile
-●	Active Directory: FS, DS/ GPO/ WSUS
-●	BitLocker/ WBAM	              Business
-●	Microsoft: 365, Teams, OneDrive, Visio, Project, SharePoint, Dynamics 365, Power Platform, Apps, Automate, BI 
-●	Cisco GotoMeeting, Jabber, WebEX, Teams/ Slack
-●	Visual Studio/ GitHub
-●	Agile/ Scrum /Kanban Methodologies
+•	Integrated incident response and security checks into CI/CD pipelines to reduce manual verification and speed secure       deployments.
 
+•	Tuned YARA, Snort, Suricata, and HIPS signatures to lower false positives and reduce recurring alerts with measurable results.
 
-EXPERIENCE:
+•	Connected SIEM and SOAR platforms to centralize alerts and shorten investigation time for high-priority anomalies.
 
-Cyber Security Engineer						     10/2024 – 4/2025
-Cyber Guards   						                   Cordova, TN
+•	Authored incident response playbooks that standardized detection and containment steps to clarify roles during high-pressured events.
+
+•	Mapped critical ICT assets to business functions to increase visibility, eliminate idle instances, and reduce unnecessary costs.
+
+•	Deployed firewalls and remote access systems aligned to business priorities to strengthen resilience and enable predictable    client deployments.
+
+•	Published a security service catalog in FreshService to streamline onboarding and improve operational consistency.
+
+•	Coached peers on detection tuning and investigative techniques, strengthening team capability and ensuring consistent responses          during pressured incidents.
+
+SYSTEM ADMINISTRATOR II
+City of Memphis        Oct 2022 - Apr 2023
  
 
-•	Aided in the deployment and integration of security infrastructure, such as firewalls, remote access systems, and other technical controls, within client environments.
+•	Managed Incident, Change, and Problem workflows in ServiceNow to shorten ticket resolution time and improve SLA adherence.
 
-•	Partnered with internal and external stakeholders, including clients, vendors, and cross-functional teams to understand security needs and design comprehensive, tailored solutions.
+•	Evaluated datacenter firmware and hardware compatibility to increase deployment predictability and operational stability.
+
+•	Maintained Microsoft 365 and Exchange Online to ensure reliable communication and records continuity for government compliance.
+
+•	Implemented secure access governance workflows to strengthen account lifecycle controls and improve audit readiness.
+
+•	Created standardized deployment runbooks for Windows and Linux servers to accelerate provisioning and patching consistency.
+
+•	Built PowerShell toolsets to automate repetitive administration tasks and reduce manual effort.
+
+•	Developed Azure and Exchange debugging scripts to resolve onboarding failures and restore service reliability.
+
+•	Investigated DNS and email routing issues to resolve delivery failures and preserve official communication integrity.
+
+•	Orchestrated IAM workflows with Oracle and Okta for provisioning and group reconciliation to lower administrative overhead.
+
+•	Diagnosed SAML/SSO authentication failures by tracing flows and logs to restore access and prevent recurring outages.
+
+•	Built automated health-check scripts for multi-environment services to detect degradation and improve application    responsiveness.
+
+•	Audited and remediated configuration deviations to enforce configuration hygiene and reduce drift.
+
+•	Diagnosed intermittent network and service degradations via log correlation and root-cause analysis to improve system stability.
+
+•	Coordinated change windows and verified post-patch functionality to minimize downtime and maintain service continuity.
+
  
-•	Incorporated incident response procedures, vulnerability scanning methods, access control protocols, and other critical security controls into CI/CD pipelines, ensuring that there is clear and accessible knowledge for the SecOps team to follow and maintain for a consistent security posture.
 
-•	Monitored (YARA, Snort, Suricata, and HIPS) signatures for known malicious patterns and fine-tuned them to reduce false positives. 
-
-•	Worked with newly acquired companies and partners during onboarding to incorporate their unique requirements into existing security standards and ensure compliance with relevant regulations.
- 
-•	Captured, documented, and published a comprehensive service catalog in FreshService, ensuring that all services were clearly documented and available to browse, request, and easily understand.
-
-•	Integrated various SIEM and SOAR tools to monitor security alerts, analyze logs, and respond to incidents and breaches.
-
-•	Devised incident response playbooks to standardize procedures for detecting, containing, and mitigating cyber threats that included clear, step-by-step guidance that minimized confusion during high-pressure events.
- 
-•	Automated workflows and playbook steps using SOAR (Security Orchestration, Automation, and Response) tools, allowing the SOC team to be able to respond and contain threats as quickly as the events unfolded.
-
-•	Mapped critical ICT assets and their dependencies to business functions for increased control, visibility, and assigned responsibility, which reduced excess consumption including overprovisioning, and idle instances, eliminating unnecessary costs. 
-
-
-
-
-
-
-
-System Administrator						                                        10/2022 – 5/2023
-City of Memphis   							                          Memphis, TN
+CYBER SECURITY ENGINEER
+PeaceHealth        Jan 2022 - Nov 2022 
  
 
-•	Developing, maintaining, and supporting the technical infrastructure (hardware, database, and system software components) including data loss prevention, encryption, retention policies,
-scheduled backups, rollbacks, and disaster recovery.
-
-•	Maintained and supported Azure-hosted services and Exchange Online, including mailbox provisioning, restoration, migration, transport rules, policies, retention, and troubleshooting. 
-
-•	Analyzed firmware packages and hardware specifications for upcoming releases to ensure compatibility, performance, and reliability in the datacenter environment.
-
-•	Configured conditional access policies in M365 Security & Compliance Center
-
-•	Defined standards and best practices by conducting POCs for new technologies.
-
-•	Investigated and diagnosed hardware failures, including "grey failures" (ambiguous or intermittent issues), proving them as true hardware defects through rigorous testing and data analysis.
-
-•	Troubleshooting HTTP/ API response codes, SSO/SAML/SCIM, LDAP, DNS, and email routing/tracing.
-
-•	Coordinated Windows and Linux application and server patching.
-
-•	Incident, Change, and Problem Management in ServiceNow during standard business hours and on-call rotations.  
- 
-•	Gathered and analyzed metrics from operating systems and applications to assist in performance tuning and fault finding using SRE best practices.
-
-•	Performing Microsoft 365 and Exchange Server administration, migration, and hygene via PowerShell.  
-
-•	Developed debugging scripts that addressed frequent onboarding issues with Microsoft 365 resource provisioning, licensing, and endpoint installations.
-
-•	Coordinated and sometimes manually triggering workflows for aggregation and user provisioning, as well as, executing attribute-based imports and/or group push reconciliation rules in Oracle and authentication rules in Okta.
-
-•	Monitored Tasks in the Admin Dashboard and resolved errors, informational items, and to-do items related to provisioning/deprovisioning issues for duplicate names in AD, locked accounts, down agents, and time-outs.
-
-
-
-
-
-
-Cyber Security Engineer					                                 1/2022 – 11/2022
-Peace Health								                            Remote	
- 
-            
-•	Objectively measured the email security posture, and compared various features, upgrades, and integrations for Microsoft 365, ATP, EOP, and Defender; Proofpoint TAP and TRAP; and Tessian security platforms to evaluate how effectively each one had been implemented, providing recommendations for improvements, offer guidance on the level of effort required, and estimating the user impact to implement the changes.
-
-•	Meeting with the technical account managers for guidance on implementation, expansion, best practices and security standards, identifying and prioritizing improvements to current security policies and configurations that had been significantly impacting the company’s security posture. Providing an overview of all their current security platforms, itemizing the functions of each one while also indicating if another product already addresses it, highlighting underutilized capabilities, allocations, and best practice recommendations, ensuring that each vendor delivers the services they are contracted to provide.
+•	Met with the technical account managers for all their current security platforms, highlighting underutilized capabilities, allocations, and best practice recommendations, ensuring that each vendor delivers the services they are contracted to provide.
 
 •	Formally documented a standard process for determining a threat’s relevance, current impact to endpoints, and recommended actions to contain it.
 
-•	Integrating and normalizing data from all security log streams into one SIEM to provide a comprehensive view of events and alerts throughout the company’s digital estate to better correlate events between services while maintaining context to complete investigations faster and with greater insight.
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     
-Microsoft 365 & Azure Cloud Engineer                                                                              4/2019- 4/2021  
-Hilton Worldwide Headquarters    				                                         Memphis, TN   
+•	Implemented unified SIEM ingestion for email and endpoint logs, improving threat visibility and enabling faster, more informed analyst decisions.
+
+•	Documented email security triage workflows with clear decision points, improving handover accuracy and reducing investigation variance across shifts marked gains in response consistency.
+
+•	Coordinated cross-functional SOC and incident response drills, refining playbooks and reducing confusion during escalations for smoother remediation.
+
+•	Assessed email security framework and implemented configuration enhancements, strengthening detection capabilities and bolstering overall security posture.
+
+•	Conducted targeted threat hunts using IOC-driven queries to identify attacker TTPs, translating findings into detection rule   updates that improved incident identification and response.
+
+•	Standardized threat relevance criteria and streamlined triage processes to accelerate analyst workflows.
+
+ 
+M365/ AZURE CLOUD ENGINEER
+Hilton Worldwide       Apr 2019 - Apr 2021
  
 
-•	Provided escalated, emergency, and afterhours support for cloud migrations to ensure that the messaging platform is stable, reliable, fully operational, and performant to meet business requirements.
+•	Coordinated cloud migrations including DNS and routing updates to minimize post-migration connectivity incidents.
 
-•	Implemented and managed email hygiene and message transport policies, performed bulk user/mailbox object modifications, enforced mailbox access protocols, and policies via PowerShell.    
+•	Provided escalated and after-hours migration support to maintain messaging platform stability and meet uptime requirements.
 
-•	Created and maintained documentation for the mail flow and network design, IP addressing and porting of all traffic, data, and service communication information for the Microsoft 365 environment.
+•	Implemented Infrastructure as Code for security, configuration, deployment, and automated post-migration cleanup to reduce     manual tasks.
 
-•	Creation and management of security groups, mail-enabled security groups, and distribution lists, as well as moderating and restricting the size of distribution lists. 
+•	Monitored Microsoft Premier tickets and flagged credit-eligible outages to ensure SLA compliance and timely recovery.
+•	
+         Performed Azure administrative maintenance for over 500,000 mailboxes to ensure proper licensing and optimal service response    times.
 
-•	Supported integrated archiving and backup solutions to meet high availability SLAs, as well as security and legal requirements for the organization.
+•	Resolved email delivery and whitelist requests as liaison between hotels and IT to restore communications quickly.
 
-•	Applied and deployed Infrastructure as code, including design and security, configuration management, integration, deployment, performance monitoring and tuning, and post migration cleanup automation.
+•	Executed unit, system, and integration testing for mobile devices to validate inclusion as company-approved hardware.
 
-•	Implemented the automation of workloads utilizing scripting and automation, such as ARM, PowerShell, and Log Analytics.
+•	Analyzed email transport policies to improve delivery speed and accuracy, producing measurable performance gains.
 
-•	Designed and implemented advanced functions of Microsoft 365 including security, governance and compliance (e.g., DLP, IRM, MDM, E-Discovery, In-Place Hold, Retention Tags, and Encryption). 
+•	Developed mail flow and network design documentation to streamline onboarding and improve team knowledge sharing.
 
-•	Executed the system design, documentation, deployment, and operational guides for migrating Skype for Business to Microsoft Teams. 
+•	Coordinated cross-functional implementation of integrated archiving solutions to enhance data compliance and security.
 
-•	Developed Microsoft 365 and OneDrive technical architecture guides and diagrams, fully functional specifications, security configuration, run books and other operational documentation.
+•	Built and enforced mailbox and archive lifecycle policies to meet retention obligations and simplify e-discovery.
 
-•	Responsible for opening, tracking, and reporting on Microsoft Premier tickets as needed, while identifying and raising awareness of any credit eligible service outages per the Microsoft SLAs.
+•	Documented Office 365, OneDrive, and Teams configuration baselines and change procedures to ensure consistent deployments.
 
-•	Performed administrative maintenance on the O365 tenant services to ensure optimal service response times and proper license and rights allocations.
-•	Microsoft 365 account administration, including the removal of user accounts, management of service requests, file sharing and permissions, group policies, etc.
+•	Optimized backup and retention workflows to secure recoverability, meet legal hold needs, and reduce recovery complexity.
 
-•	Performed regular PowerShell scripting and development of Microsoft 365 modules for automating messaging processes, server maintenance, and reporting.
+ 
+AZURE CLOUD ENGINEER 
+FedEx World Technology Center     Dec 2017 - Oct 2017
+ 
+•	Configured Microsoft 365 Cloud App Security anomaly policies to reduce alert noise and surface actionable threats, improving    detection accuracy.
 
-•	Researched and implemented a 3rd party solution for federating telepresence and interoperability between Cisco Teams and Microsoft Teams and later spearheaded the execution in formal test, QA and UAT surroundings then later implementing in the production environment.
+•	Reviewed quarantined messages and removed spam and malware to restore legitimate mail flow and minimize business disruption.
 
-•	Hosted meetings across multiple time zones to address email delivery issues serving as the liaison between the business and IT departments.
+•	Adjusted Microsoft 365 role-based groups to enforce least-privilege administrator access and strengthen access controls.
 
-•	Evaluated, developed, and implemented mobile solutions to incorporate on company approved devices, as well as, executed unit, system, and integration test plans for new releases. 
+•	Collected and reported aggregated counts of malicious content blocked by EOP and ATP to demonstrate operational effectiveness.
 
-Microsoft 365 & Azure Cloud Engineer                                                       12/2017-10/2018                           
-FedEx – World Technology Center 					        Collierville, TN
+•	Analyzed Microsoft 365 activity and APIs to identify malicious behavior and drive remediation actions that reduced exposure.
+
+•	Monitored Office 365 and Azure services to maintain service stability, integrity, and efficient operation.
+
+•	Revised EOP, ATP, Proofpoint and Cloud App Security policies to align configurations with security goals and new feature sets.
+
+•	Explained architectural differences during migration planning to application, security, and network teams to guide secure     design decisions.
+
+•	Defined structured threat scenarios and recommended migration adjustments to meet objectives while reducing security risk.
+
+ 
+SYSTEM ADMINISTRATOR II
+Campbell Clinic Orthopedics       Nov 2017 - Dec 2017
  
 
-•	Tailored anomaly detection policies in Microsoft 365 Cloud App Security to reduce the number of alerts and eliminate false positives, allowing teams to focus on the truly exploitable issues.
+•	Collaborated with Apple developers and clinicians to collect UI feedback and implement workflow changes with measurable      improvements in task completion time.
 
-•	Reviewed and released (or deleted) messages in quarantine that were filtered as spam, contained malware, or that matched mail flow rules. 
+•	Built core dashboard features for a mobile-first Cisco Meraki System Manager to improve device oversight and enrollment    efficiency.
 
-●	Adapted Microsoft 365 Security Administrator, Manager, and Reader role-based groups, ensuring that least privilege access was granted.
+•	Served as Apple Server and iOS subject matter expert, configuring devices to client specifications to ensure consistent deployments.
 
-●	Collected metrics and delivered statistics and reports that provided an aggregated count of malicious content (email, files or URLs) blocked by Exchange Online Protection (EOP) and Microsoft 365 ATP anti-malware engines, allowing key stakeholders to see the operational effectiveness and impact on day to mail flow.
+•	Developed Mac and iOS build scripts and configuration profiles to enable over-the-air enrollment and endpoint setup using Apple          Configurator 2 and Profile Manager.
 
-●	Analyzed activities in aggregate to rule out known good behavior, identified/tracked malicious activity using evidence from Microsoft 365 Security and Compliance Center, Cloud App Security, ATP, PowerShell, and other API interfaces, and then executed the appropriate action to remediate security breaches based on the findings.
+•	Documented and updated configuration procedures on the internal WIKI to reduce onboarding time and improve configuration    accuracy.
 
-●	Continuously monitored and managed the stability, integrity, and efficient operation of Office 365 and Azure services. (Office 365 Security and Compliance Center, Cloud App Security, Advanced Threat Protection and Threat Intelligence, Cloud Discovery, Windows Defender Security Center, and Azure Portal). 
+•	Upgraded Mac Mini server for APN, network authentication, supervision, and MDM enrollment to support scaled deployments and    increase reliability.
 
-●	Reviewed and restructured EOP and Microsoft 365 ATP and Cloud App Security policies to ensure that they were configured correctly, included the latest enhancements, and reflected the company's security goals.
+•	Created custom configuration profiles and device blueprints to support legacy and current iOS devices unable to receive updates.
 
-●	Articulated the architectural differences between solution methods during the conceptual/ planning level of the migration in partnership with application, security, and networking workstreams.
+•	Managed SolarWinds Help Desk support requests for physicians and staff, documenting resolutions to improve issue tracking and    prevention.
 
-●	Provided a structured approach to threat scenarios, ensuring migration objectives are met while also proactively looking for opportunities to adjust current practices and optimize assets (people, technology, and processes), sanctioning more effective and centralized methods of detecting vulnerabilities. 
+•	Maintained Avaya PBX and implemented extension routing to ShoreTel VoIP to prevent license overages.
 
-●	Provided proactive technical oversight that remained focused on the needs of the business to allow for collaboration and security without limitation, a balance between information usability and security.
+•	Monitored network switches, security appliances, and wireless access points to maintain infrastructure uptime and detect     critical issues.
 
-
-●	Spearheaded the adoption of user and entity behavior analytics (UEBA) and various other processes and procedures with emphasis on network security, reliability, on-site availability, and functionality of Microsoft 365 and Azure services, specifying techniques to leverage the full breadth of Azure PaaS and IaaS. 
-
-●	Conducted code audits, fuzzing, and static analysis to discover vulnerabilities, improve accountability, and determine where additional solutions are needed to reduce the attack surface of critical services, and mitigate the impact of exploits.
-
-
-
- System Administrator II                                                                            	       11/2017- 12/2017
- Campbell Clinic Orthopedics   			                                               Germantown, TN
-  
-
-•	Worked closely with Apple Developers and medical staff by conducting research to identify pain points within the Doctors’ apps, gathering feedback on proposed UI changes, and ascertain areas where the mobile app could add value to the Doctors’ day-to-day responsibilities.
-
-•	Developed core dashboard features for the mobile-first implementation of Meraki Sentry and System Manager.
-
-●	Served as Apple Server and iOS SME, configuring and kitting devices to client requirements.
-
-●	Developed Mac/iOS build components (including scripts and configuration profiles) to support over the air mobile device enrollment and endpoint configurations using Apple Configurator 2, Profile Manager, and Cisco Meraki System Manger. 
-
-●	Evaluated alternative mobile solution architecture components and provided recommendations to key stakeholders. 
-
-●	Updated Campbell Clinic’s WIKI site with recently revised configuration steps and processes.
-
-•	Upgraded the Mac Mini server for APN certificate installation, network authentication, supervision, MDM enrollment, and scaled the network toward larger deployments.
-
-•	Developed custom configuration profiles and blueprints to work with new, as well as, older iOS devices that could no longer receive Apple software updates.
-
-•	Managed support requests for the Physicians and Staff in SolarWinds Help Desk, ensuring that the confirmed resolutions were well documented and accurately updated with resolution categories for better issue tracking, prevention, and reporting.
-
-●	Managed the Avaya PBX telephony system and implemented a method for routing existing extensions to ShoreTel VoIP extensions without exhausting the limited number of available licenses. 
-
-●	Monitored critical infrastructure including network switches, security appliances, and wireless access points.
-
-
-Mobility Systems Administrator                                                                        8/2017 - 10/2017
-Workspace Mobility 					                                       Bartlett, TN 
+ 
+MOBILITY SYSTEMS ADMNISTRATOR
+Workspace Mobility      Aug 2017 - October 2017
  
 
-●	Supported the company's migration to the cloud and designed custom rules triggering workflows in Azure AD to automate a user’s email account creation on their hire date, assign them to the appropriate role-based group(s), send their login credentials, and even schedule a one-on-one meeting with their Manager on their first day. 
+•	Automated Azure AD onboarding workflows to create accounts, assigned role groups, and scheduled manager meetings, reducing manual setup time.
 
-●	Published KBAs and end user how to documentation supporting Office 365 self-service Azure AD registration, AD join, and self-service password reset.
+•	Published clear Office 365 and Azure AD user guides to enable self-service registration and password resets.
 
-●	Corrected issues with a prior installation of Azure AD to allow for synchronization with the DNS server and more reliable connectivity to Azure AD and Office 365 endpoints, optimizing system performance, installing upgrades/patches, establishing system monitoring and maintaining security protocols. 
+•	Resolved Azure AD synchronization and DNS issues to restore reliable connectivity and improve system performance.
 
-●	Managed user accounts, subscriptions, and licenses in Office 365 Admin Center and Azure AD using Azure CLI and PowerShell.
+•	Managed Office 365 and Azure AD accounts, subscriptions, and licenses via Azure CLI and PowerShell to maintain compliance.
+
+•	Performed Zebra and Honeywell device firmware, hardware, and application upgrades while managing spares and repair logistics to minimize downtime.
+
+•	Documented and resolved support requests in Sys Aid following ITIL, ensuring traceable CI records and confirmed resolutions.
+
+•	Administered Cisco Avaya VoIP systems and integrated voicemail with automated ticket creation to speed incident handling.
+
+•	Recommended and implemented firewall and port configurations on Fortinet to ensure uninterrupted cloud service communication.
+
+•	Validated workstation and mobile device compatibility with Azure AD and Office 365 authentication endpoints.
+
+•	Configured, deployed, and maintained endpoint systems and services to support secure cloud authentication and device management.
+
+
  
-●	Performed firmware/ hardware/ application upgrades, managed spare pools, device loans and transfers, as well as, expedited manufacturer repairs as required. 
-
-●	Managed all support requests, ensuring that client issues were well documented with a confirmed resolution, associated with a CI record, and accurately categorized in Sys Aid in conformance with ITIL standards and best practices.
-
-●	Managed the Cisco Avvid VoIP network including Unity voicemail, unified messaging, and integrated a support line to automate ticket creations in Sys Aid.
-
-●	Recommended system security measures and modifications to improve the speed of operations in the new Azure cloud environment such as opening the required Office 365, Azure, and Intune client ports and services on the Fortinet firewall/ router to allow for uninterrupted communication between managed devices and websites required for cloud-based services.
-
-●	Conducted preliminary analyses to ensure all workstations and mobile devices interconnect seamlessly to Azure AD and Office 365 authentication endpoints.
-
-●	Configured, deployed, maintained, and supported all workstations, handheld scanners, printers, cloud servers, mobile devices, and VoIP phones.
-
-●	Maintained the system architecture, development, operation, and maintenance services for SOTI MobiControl MDM system; provided client support and hardware/ software repairs for 36,000+ clients’ scanners and tablets running Android, Windows, and Apple iOS platforms.  
-
-●	Coordinated mobile solution components (AirWatch MDM, VMware, SQL, etc.) to install, configure and integrate into the mobile solution architecture. 
-
-
-
-●	Designed a more efficient system for bulk imaging, deployment, and management of mobile devices requesting pre-activated, location specific SIM cards, allowing the IT support and warehouse staff to easily distinguish each device by their hostname and correlated QR code and labels linked into the Company’s inventory management system.
-
-
-IT Technical Specialist II                                                       	                  3/2016 - 4/2017
-ServiceMaster       					                                Memphis, TN
+IT TECHNICAL SPECIALIST II
+ServiceMaster      Mar 2016 - Apr 2017
  
 
-●	Trained new support personnel in processing inbound tickets/ requests while maintaining a high-level of customer satisfaction and meeting the SLA during peak call volumes.
+•	Trained new support staff on ticket routing and SLA procedures, improving peak-period customer satisfaction.
 
-●	Serving as interim team lead, I managed the Deskside Support team and queue, SLA percentages, customer satisfaction surveys, ticket misroutes, and known issues for the team. During this time, I also designed custom reports that provided definitive data supporting my theory that ticket assignment based on a Techs’ skillset and/or location resolved incidents 81% faster than with random, equal ticket disbursement. These reports are still used today.
+•	Led deskside support as interim team lead, reducing incident resolution time by 81%.
 
-●	Diagnosed and resolved unique, non-recurring problems associated with application software and operating systems to determine the source of the problem and classify their SLA level, priority, and nature for integration into categories allowing for better incident tracking, speedier resolution, and knowledge base article creation.
+•	Diagnosed and categorized complex software and OS incidents to improve tracking and SLA prioritization.
 
-●	Evolved into subject-matter expert for all Windows 10 (Microsoft Surfaces) and Mac OS devices, setting standards for group policy, file permissions, network addressing schemes, and company and CIS standards. 
+•	Served as Microsoft Surface and MacOS SME, defining group policy, permissions, and network standards.
 
-●	Solely responsible for network printer and server installation, custom configurations, migrations, and management for the entire (47K) enterprise.   
+•	Installed and managed network printers and servers for a 47,000-user enterprise, handling custom configs and migrations.
 
-●	Solely responsible for the pre-deployment software/ hardware testing, imaging, deployment, assignment, and inventory for all Apple devices in the enterprise. 
+•	Managed pre-deployment testing, imaging, deployment, and inventory for all enterprise Dell and Apple devices.
 
-●	Solely responsible for designing and managing the IT Infrastructure computer lab.
+•	Designed and maintained the IT infrastructure lab to support training, testing, and certification needs.
 
-●	Automated a system for requesting lab equipment in BMC RemedyOnDemand that included the hardware/ software requirements, approval chain for elevated access, scheduling, user assignment, collision detection, and inventory tracking.
+•	Automated lab equipment requests in BMC RemedyOnDemand with approvals, scheduling, conflict detection, and inventory tracking.
 
-●	Ran vulnerability scans on all new Windows and Mac OS builds in Nessus Security Center to ensure adherence to CIS Standards for workstations.
+•	Conducted Nessus vulnerability scans on Windows and Mac builds to validate CIS compliance for workstations.
 
-●	Researched and developed more efficient methods of completing tasks, correcting user errors, and system inconsistencies that improved the overall functionality of the Deskside Support team.
+•	Researched and implemented efficiency improvements to boost team productivity and process consistency.
 
-●	Maintained software and hardware (CIs) inventory in the CMDB to include location, owner, assigned licenses, and warranty status, ensuring policy standards and procedures for PC refreshes and upgrades were met.
-
-●	Worked directly with Dell, Microsoft, Konica Minolta, and other hardware/ software vendors to verify timely product delivery, confirm all equipment has been installed, repaired, and ready to operate on schedule.
-
-●	Provided network access support while gathering logs related to newly implemented ISE Compliance and Posture Assessment modules for the Cisco AnyConnect Secure Mobility Client software.
-
-●	Hosted Cisco WebEX meetings, webinars, and support sessions to provide software training and support for end users, as well as, daily team meetings and discussions regarding new releases, standard procedures, and escalated issues.
-
-
-IAM Administrator I                                                                     		      3/2013 - 3/2016 
-ServiceMaster     						                    Memphis, TN
+ 
+IAM ADMINISTRATOR
+ServiceMaster    Mar 2013 - Apr 2016
  
 
-●	Performed workflow aggregation, and provisioning testing as well as, reconciliation rule customizations alongside the SailPoint Identity IQ development team to ensure that automated system functions properly aligned with business specifications.
 
-●	User and service account provisioning across multiple platforms including AD, LDAP directories, mainframes, databases, re-certifying account access, privileged access management, file permissions, security groups, cross domain migrations, access terminations, and change requests for the following applications: Sailpoint Identity IQ, ADFS, MS Exchange, AS/400 iSeries, BMC Remedy On Demand, Vista Plus, Retarus systems, as well as, TPAM, and UNIX/ Solaris/ Linux/ Sun servers.
+•	Validated SailPoint IdentityIQ workflows against business requirements to ensure automated provisioning met audit standards and          compliance.
 
-●	Identifying provisioning, aggregation and other failures via audit logs, tasks, events, and history snapshots in SailPoint Identity IQ while working directly with the application developers to quickly identify and correct them in their early stages and prevent system downtime. 
+•	Provisioned/ deprovisioned user and service accounts across AD, LDAP, AS400, mainframe, databases, IdentityIQ, and ADFS to maintain timely access delivery for business operations.
 
-●	Assisted internal and external auditors during quarterly evaluations, taking the necessary steps to remediate security policy violations.
+•	Detected provisioning and aggregation failures via audit logs and snapshots and coordinated developer fixes to reduce defects.
 
-●	Volunteered to be responsible for processing all emergency, weekend, holiday, and any other  system access related tasks needed after business hours.
+•	Supported internal and external auditors during quarterly reviews and remediated security policy violations to maintain    compliance.
 
-●	Resolved approximately 6,000 tickets/ issues per month in an efficient and timely manner to ensure the fulfillment of the 99.9% (SLA) Service Level Agreement.
+•	Managed after-hours emergency and elevated access requests to sustain system availability and continuous business operations.
 
-●	Analyzed and Diagnosed cross-functional/ departmental system defects that were not replicable in a non-production system environment, spotting trends to determine and implement appropriate provisioning solutions. 
+•	Resolved approximately 6,000 tickets monthly to meet a 99.9% SLA and ensure prompt service fulfillment.
 
-●	Documented IAM standard operating procedures, which facilitated the Access and Identity Management department becoming ISO9001 compliant.
+•	Diagnosed cross-department system defects not reproducible in development environments and implemented targeted provisioning fixes.
 
+•	Documented IAM standard operating procedures to support the Access and Identity Management team in achieving ISO9001 compliance.
+		
+SKILLS
 
+Security Tools: Nessus (Tenable), OpenVAS, Qualys VMDR, Nmap, Burp Suite, Rapid7, Stellar Cyber, Sentinel One, Zscaler, CrowdStrike
 
+Scripting & Programming: Bash, JavaScript, Python, HTML, PHP, PowerShell, Ruby
 
-Technical Specialist                                                              		     7/2012 - 1/2013 
-Gestalt Community Schools   						        Memphis, TN
+Databases: SQLite, Redis, PostreSQL, MongoDB, Apache, Oracle, SupaBase 
+
+AI/ML Tools: Open Ai, Claude, Vibe, Codex, Anthropic, Gemini, Ollama, Chat GPT, OpenCLAW
+
+DevOps Tools: Packer, Docker, Ansible, Puppet, Terraform,Kubernates
+
+Frameworks & Libraries: TDD, CI/CD, Incremental Releases, Azure DevOps, Chef, Agile, Pipelines, GIT, YAML, Azure Bicep, PowerShell, ARM Templates, IaC, Microservices
+
+Cloud Platforms: Azure, AWS (EC2, S3, RDS), Google Cloud Platform 
+
+Containerization: Helm, Vagrant, Docker, Kubernates 
+
+Monitoring & Logging: Prometheus, Grafana, ELK Stack (ElasticSearch, Logstash, Kibana), Datadog
  
 
-•	Created and deployed Mac OSX application packages and updates, and provided support for user's self-service software requests in JAMF Casper Suite.
-
-•	Provided technical curriculum assistance regarding hardware usage, software applications, innovations in technology, and the general instructional use of technology in the classroom.
-
-•	Assisted with the integration of new technology and applications across the K-12    curriculum.
-
-•	Developed, updated, and maintained inventory and licensing for hardware and software.
-
-•	Served as the technology liaison for hardware and software vendors, negotiating contracts on behalf of department chairs, division coordinators, academic, and administrative teams. 
-
-●	Assisted in maintaining the electronic student records system, training the faculty on the report card program, and administration proofing the report card system.
-
-●	Served as network administrator and infrastructure support (fiber optics, T- line, and other classroom connections) including hardware (workstations, network server, cabling, switches, routers, firewalls, analog phones and extensions, printers, and all classroom and computer lab workstations and the required connections), wired and wireless network connections, and website and software (virus/ web content/ firewall intrusion monitoring, detection, prevention, and removal) coordinator.
-
-●	Evaluated, configured, and tested wireless access point reception to align with
-   indoor signal coverage requirements and conformance to specifications.
-
-●	Provided on-site technical support and performed Certified Apple (GSX) diagnostics and repairs for the students, faculty, and leadership staff.
-
-●	Performed maintenance and repairs on printers, projectors, robotics equipment, wireless access points, routers, switches, firewalls, and MacBook charging carts.
-
-895 Watkins Drive,
-Moscow, TN 38057 
-731-433-9864 | rachelannie.harris@gmail.com http://www.linkedin.com/in/rachel-harris-30468113
 
 
 
+
+		
 
